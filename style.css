@@ -1,0 +1,84 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+.bottom-margin{
+    margin-bottom: 160px;
+}
+#head-cover{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 90px;
+}
+.middle-allignment{
+    text-align: center;
+}
+.white-text{
+    color: white;
+}
+#cover-heading{
+    font-size: 70px;
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+.middle-paragraph{
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 50px;
+}
+
+.redirect{
+    color: white;
+    background-color: #ff5959;
+    padding: 15px 18px 15px 18px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 900;
+}
+.body-headings{
+    font-weight: bolder;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.taka{
+    margin-left: 2%;
+    background-color: whitesmoke;
+    padding: 20px 20px 20px 20px;
+    border-radius: 9%;
+}
+#orange-taka{
+    color: #ff5959;
+    background-color: #ffeeee;
+    border-color: #ff5959;
+    border-style: solid;
+}
+#underline{
+    width: 400px;
+    color: grey;
+    margin-bottom: 25px;
+}
+#donate-plans{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.donate-plan-boxes{
+    padding:20px 20px 20px 20px;
+}
+#food{
+    background-color: rgb(168, 225, 168);
+    margin-right: 30px;
+}
+#shelter{
+    background-color: rgb(239, 220, 223);
+    margin-right: 30px;
+}
+#education{
+    background-color: rgb(243, 243, 198);
+    margin-right: 30px;
+}
