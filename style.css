@@ -48,7 +48,7 @@ body{
 }
 .taka{
     margin-left: 2%;
-    background-color: whitesmoke;
+    background-color: #fafafa;
     padding: 20px 20px 20px 20px;
     border-radius: 9%;
 }
@@ -60,7 +60,7 @@ body{
 }
 #underline{
     width: 400px;
-    color: grey;
+    color: #dadada;
     margin-bottom: 25px;
 }
 #donate-plans{
@@ -71,7 +71,7 @@ body{
     padding:20px 20px 20px 20px;
 }
 #food{
-    background-color: rgb(168, 225, 168);
+    background-color: #b0e3e9;
     margin-right: 30px;
 }
 #shelter{
@@ -90,4 +90,27 @@ body{
 }
 #contribute{
     padding: 40px 40px 40px 170px;
+}
+#email-box{
+    margin: 40px 550px 40px 550px;
+    padding: 20px 20px 20px 20px;
+    background-color: #fff4d6;
+}
+#subscribe-button{
+    background-color: #ff5959;
+    color: white;
+    font-weight: 700;
+}
+#footer{
+    background-color: black;
+}
+#humble{
+    color: #ff5959;
+    height: 80px;
+    padding-top: 30px;
+    margin-bottom: -30px;
+}
+#do-it{
+    padding-bottom: 20px;
+    margin-bottom: -10px;
 }
