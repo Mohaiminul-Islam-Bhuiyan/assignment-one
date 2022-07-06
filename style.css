@@ -82,3 +82,12 @@ body{
     background-color: rgb(243, 243, 198);
     margin-right: 30px;
 }
+.half-width{
+    width: 50%;
+}
+.half-width img {
+    width: 70%;
+}
+#contribute{
+    padding: 40px 40px 40px 170px;
+}
