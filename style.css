@@ -9,7 +9,7 @@ body{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 20px;
+    padding-top: 1px;
     padding-bottom: 90px;
 }
 .middle-allignment{
@@ -57,6 +57,10 @@ body{
     background-color: #ffeeee;
     border-color: #ff5959;
     border-style: solid;
+}
+#other-amount{
+    border: none;
+    margin-left: 45px;
 }
 #underline{
     width: 400px;
